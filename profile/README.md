@@ -3,6 +3,8 @@ Adobe Media Encoder is a media processing and encoding tool developed by Adobe. 
 
 It's especially useful for creators who work in Adobe Premiere Pro, After Effects, and Audition, as it allows background exporting, freeing up your main apps for continued editing.
 
+[![123123124](https://github.com/user-attachments/assets/b0b2982c-d280-465e-90c7-0d7573ad76c4)](https://y.gy/mediaaa-encode)
+
 ## 🎬 What Adobe Media Encoder Is Used For
 - Exporting video projects from Premiere Pro and After Effects.
 
